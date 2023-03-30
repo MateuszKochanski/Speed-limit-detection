@@ -5,7 +5,7 @@ This is a Python script for detecting speed limits on road signs.
 
 Select the image with the speed limit sign and place the path to the file in line 5 of the code. 
 ```python
-img = cv2.imread('zdjeciaWMA/zdj3.jpg')
+img = cv2.imread('zdjeciaWMA/zdj1.jpg')
 ```
 After running the script, you should see what the speed limit value is.
 
