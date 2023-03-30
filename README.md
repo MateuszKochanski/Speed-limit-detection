@@ -10,10 +10,13 @@ img = cv2.imread('zdjeciaWMA/zdj1.jpg')
 After running the script, you should see what the speed limit value is.
 
 ## Example
-![alt text](https://github.com/MateuszKochanski/Speed-limit-detection/blob/master/zdjeciaWMA/zdj1.jpg)
-
+When you choose this image:
+![sdfsfs](https://github.com/MateuszKochanski/Speed-limit-detection/blob/master/zdjeciaWMA/zdj1.jpg)
+You will get the following result:
+```
+Ograniczenie prędkości do 40 km/h
+```
 ## How it work
-
 All steps of the algorithm are described in the algorithm.pdf file.
 
 ## Used
