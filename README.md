@@ -11,6 +11,7 @@ After running the script, you should see what the speed limit value is.
 
 ## Example
 When you choose this image:  
+  
 ![Text](https://github.com/MateuszKochanski/Speed-limit-detection/blob/master/zdjeciaWMA/zdj1.jpg)  
   
 You will get the following result:
